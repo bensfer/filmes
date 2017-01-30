@@ -1,0 +1,44 @@
+atualizar projetos: 
+seleciona - TEAM / SYNCHRONIZE (compara)
+seleciona - UPDATE
+abre planilha - altera - salva
+joga ela no collaborus - localhost no primeiro campo - ok
+clean no projeto: project / clean
+server: stop - clean - start
+abre navegador para gerar pdf 
+
+tax id - 01142636000130
+doc.docgen.susepdisclosure
+
+webapp - java resources - end dev resources - 
+spring properties : SQLEXPRESS:1433
+
+http://jira.tekinsure.local:8080/jira/secure/Dashboard.jspa
+http://localhost:7080/apac-launchpad.webapp/test/startLatam.html#
+http://localhost:7080/Admin/test/sso_user_launcher.jsp
+http://localhost:7080/Admin/test/remove_all_ids.jsp
+https://docs.google.com/spreadsheets/d/1nXiY36zYORQqfpNWJy4IW4-oKT0_PV5phKw85WQXa9g/edit#gid=1883116429
+http://172.20.2.201:8080/view/BR/
+http://jira.tekinsure.local:8080/jira/secure/RapidBoard.jspa?rapidView=28
+
+Jira: raul.padua / AB7HFuT7
+Jira: fernando.vicente - ACP5NMQe
+
+casualty    -  responsabilidade		- Physical Fitness Facilities - Physical Fitness Facilities
+combined    -  empresarial			- hotels and motels
+financial   -  rc profissional		- lawn (2)
+environment -  ambiental			- qq
+marine      -  transportes			- port au
+property    -  patrimonial			- adm (1)
+
+linhas  86 / 501 / 512 / 542 policydetailspage.java (fin)
+linhas 124 / 588 / 599 / 629 policydetailspage.java (comb)
+
+trunk  - 1.0.x
+brench - 1.0.ult.x
+
+frontispício (schedule)		- policy cover
+certificate of insurance 	- certificate of insurance
+
+fenix thalison - 135345
+fenix psilvadi - f-18tomcat
